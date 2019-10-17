@@ -1,0 +1,15 @@
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\bin\Debug\Pareto.exe.config
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\bin\Debug\Pareto.exe
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\bin\Debug\Pareto.pdb
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\MainWindow.g.cs
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\App.g.cs
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto_MarkupCompile.cache
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto_MarkupCompile.lref
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\MainWindow.baml
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.g.resources
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.Properties.Resources.resources
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.csproj.GenerateResource.cache
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.csproj.CoreCompileInputs.cache
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.exe
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.pdb
+C:\Users\Khan\Desktop\ТПР\Pareto\Pareto\obj\Debug\Pareto.csprojAssemblyReference.cache
